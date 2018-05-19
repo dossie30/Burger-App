@@ -3,6 +3,6 @@ A Node Express Handlebars restaurant app that lets users input the names of burg
 
 Whenever an user submits a burger's name, the app will display the burger on the page--waiting to be devoured.
 
-Each burger in the waiting are also has a Devour it! button. When the user clicks it, the burger will move.
+Each burger in the waiting area also has a 'Devour it!' button. When the user clicks it, the burger will move to the devoured list.
 
-The app will store every burger in the MySQL database, whether devoured or not.
+The app stores every burger in the MySQL database, whether devoured or not.
